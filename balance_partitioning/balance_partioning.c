@@ -13,6 +13,7 @@ int main(int argc , char *argv[])
     int ls = 0 , rs = 0;
     
     int p = n/2;
+    // first we will take the reference difference from the mid
     
      for(int j = 0 ; j < p-1 ; j++ ) {
             ls = ls + array[j];
@@ -45,7 +46,7 @@ int main(int argc , char *argv[])
         
         p++;
     }
-    
+    // Now the partition index will be p+1 because array is initialiezed by 0;
     printf("The partition is : = %d" , p+1);
 
 

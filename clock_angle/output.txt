@@ -2,3 +2,11 @@
  ./a.out   03 30  output  75.00
  ./a.out   05 00  output  150.00
  ./a.out   08 45  output  7.00
+
+
+Bonus 
+
+./a.out  09 00 30  output 177.7
+./a.out  03 30 45  output 86.00
+./a.out  05 00 50  output 65.00
+./a.out  08 45 05  output 120.00

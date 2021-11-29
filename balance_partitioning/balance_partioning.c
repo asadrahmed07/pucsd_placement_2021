@@ -39,7 +39,7 @@ int main(int argc , char *argv[])
         
         tempdiff = rs - ls;
         
-        if(tempdiff < finaldiff) {
+        if(tempdiff < ref_diff) {
             ref_diff = tempdiff;
         }
         

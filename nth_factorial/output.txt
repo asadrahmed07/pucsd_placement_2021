@@ -1,0 +1,12 @@
+ ./a.out 0     Output 0
+ ./a.out 12    Output 144
+ ./a.out 27    Output 196418
+ ./a.out 25    Output 9227465
+
+
+Bonus 
+
+./a.out 0  Output 0
+./a.out 2  Output 8
+./a.out 3  Ouput 34
+./a.out 5  Output 610

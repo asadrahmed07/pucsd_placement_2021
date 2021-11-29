@@ -23,7 +23,7 @@ float ClockAngle(int hour, int minute)
 
 int main(int argc, char *argv[])
 {
-    int hour, min, sec;
+    int hour, min;
     float Angle;
 
     hour = atoi(argv[1]);
